@@ -1,0 +1,17 @@
+.aparat-embed-list .video-item {
+	clear: both;
+	margin-bottom: 1em;
+}
+.aparat-embed-list .video-preview {
+	float: right;
+	max-width: 40%;
+	height: auto;
+	margin-left: 5%;
+}
+.aparat-embed-list .video-description {
+	overflow: hidden;
+}
+.aparat-embed-list .video-preview iframe {
+	max-width: 100%;
+	height: auto;
+}
